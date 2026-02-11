@@ -1,0 +1,15 @@
+PS C:\Users\hpw\OneDrive\Desktop\backendAssignment> npm run dev
+
+> backendassignment@1.0.0 dev
+> nodemon server.js
+
+[nodemon] 3.1.11
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node server.js`
+[dotenv@17.2.3] injecting env (3) from .env -- tip: ⚙️  override existing env vars with { override: true }
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🛠️  run anywhere with `do
+tenvx run -- yourcommand`
+Server running on port 5000
+SQLite DB connected via Prisma
