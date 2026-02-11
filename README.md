@@ -129,3 +129,48 @@ Thunder Client
 👤 Author
 
 Insha Naaz
+
+
+Frontend
+cd frontend
+npm install
+npm run dev
+# Runs frontend on http://localhost:5173
+💻 Frontend Features
+
+Register & login users
+
+Access protected dashboard (JWT required)
+
+Add/Edit/Delete tasks
+
+Error & success messages displayed
+
+🛡️ Security & Scalability
+
+JWT expiration enforced
+
+Input validation and sanitization
+
+Role-based access control
+
+Modular architecture for easy expansion
+
+Can be extended to microservices, Redis caching, Docker, and load balancing
+📄 API Documentation:All endpoints can be tested using Thunder Client
+✅ Notes
+
+Tested with Node.js v20.x and React v18.x
+
+All tasks CRUD fully functional
+
+Empty tasks show: “No tasks found.”
+
+JWT handling is secure
+## Setup Instructions
+
+```bash
+cd frontend
+npm install
+npm run dev
+# Runs frontend at http://localhost:5173
